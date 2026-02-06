@@ -1,0 +1,13 @@
+( isGreater
+  asciify First is greater
+  stop
+)
+
+( isLessOrEqual
+  asciify Second is greater or equal
+  stop
+)
+
+welcome 10
+welcome 5
+if 0 greater 1 isGreater isLessOrEqual
